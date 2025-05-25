@@ -132,7 +132,7 @@
 
 #banner {
   background: url("../../images/banner.jpg") center center / cover no-repeat;
-  height: 500px;
+  height: 600px;
   padding: 0 50px;
   display: flex;
   align-items: center;
