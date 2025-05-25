@@ -269,7 +269,7 @@
   border: none;
   font-size: 14px;
   font-weight: 700;
-  background-color: #be0003;
+  background-color: #be003b;
   color: #fff;
 }
 
@@ -562,7 +562,7 @@ text-align: center;}
 }
 
 .inner-btn button {
-  background-color: rgb(199, 0, 0);
+  background-color: #c70000;
   color: white;
   border: none;
   padding: 0.8rem 1.5rem;
